@@ -1,0 +1,15 @@
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.csproj.AssemblyReference.cache
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.AssemblyInfoInputs.cache
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.AssemblyInfo.cs
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.csproj.CoreCompileInputs.cache
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\bin\Debug\net6.0\task19_homework.exe
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\bin\Debug\net6.0\task19_homework.deps.json
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\bin\Debug\net6.0\task19_homework.runtimeconfig.json
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\bin\Debug\net6.0\task19_homework.dll
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\bin\Debug\net6.0\task19_homework.pdb
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.dll
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\refint\task19_homework.dll
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.pdb
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\task19_homework.genruntimeconfig.cache
+C:\Users\v.davidov\Desktop\GeekBrains\20220812_seminar_C#\task19_homework\obj\Debug\net6.0\ref\task19_homework.dll
